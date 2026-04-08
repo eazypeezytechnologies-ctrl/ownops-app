@@ -1,50 +1,90 @@
-# 📦 OwnOps – Operations System
+# 🏗️ OwnOps – Operations Management System
 
-## 📌 Overview  
-OwnOps is a system designed to manage logistics, acquisitions, and workflows for service-based businesses.
-
----
-
-## 🚀 Core Features  
-- Job and delivery tracking  
-- Route and logistics management  
-- Client and order tracking  
-- Workflow organization  
-- Scalable operations structure  
+Streamline operations. Track workflows. Scale real-world businesses.
 
 ---
 
-## 🧠 Problem It Solves  
-Managing multiple service operations (deliveries, clients, routes) becomes chaotic without structure. OwnOps centralizes operations into a single system.
+## 📌 Overview
+
+OwnOps is a system designed to manage logistics, acquisitions, and service operations in one place.
+
+It helps operators:
+
+- Track deals and opportunities
+- Manage workflows and task pipelines
+- Organize business operations across multiple ventures
 
 ---
 
-## 🛠 Tech Stack  
-- JavaScript / TypeScript  
-- Mobile + Web architecture (planned)  
-- Backend integration (in progress)  
+## 🎯 Why I Built It
+
+Managing multiple business operations (logistics, deliveries, acquisitions) often leads to:
+
+- Scattered information
+- Missed opportunities
+- Poor workflow visibility
+
+OwnOps was built to centralize operations into a single structured system, improving clarity, execution, and scalability.
 
 ---
 
-## 📸 Example Use Cases  
-- Courier route planning (Mo nBọ Services)  
-- Delivery tracking and optimization  
-- Client order management  
+## 🚀 Features
+
+- 📊 Opportunity & deal tracking
+- 🧩 Workflow and task management
+- 📍 Logistics coordination support
+- 🗂️ Centralized operations dashboard
+- ⚙️ Scalable system design for multiple business types
 
 ---
 
-## 🔮 Future Improvements  
-- Real-time tracking  
-- Admin dashboards  
-- Automated route optimization  
-- API integrations  
+## 🧠 Key Concept
+
+OwnOps is designed around operational clarity:
+
+- Every opportunity becomes a trackable workflow
+- Every workflow becomes measurable progress
+- Every system supports scaling without chaos
 
 ---
 
-## 🎯 Purpose  
-Demonstrates system design thinking, operations management, and scalable application planning.
+## 📸 App Preview
+
+### 📊 Operations Dashboard
+<img src="./screenshots:/dashboard.jpg" width="250" />
+
+### 🧩 Workflow Management
+<img src="./screenshots:/workflow.jpg" width="250" />
+
+### 📍 Opportunity Tracking
+<img src="./screenshots:/opportunities.jpg" width="250" />
 
 ---
 
-## 👤 Author  
+## 🧰 Tech Stack
+
+- React Native (Expo)
+- TypeScript
+- Supabase (database + backend)
+- Node.js (API logic)
+
+---
+
+## 📈 What I Learned
+
+- Designing systems for real-world operations
+- Structuring scalable workflows
+- Building tools for execution, not just tracking
+- Thinking in systems instead of isolated features
+
+---
+
+## 🔄 Status
+
+In active development — expanding workflow automation, filtering, and real-time tracking features.
+
+---
+
+## 👤 Author
+
 Babatunde Jegede
