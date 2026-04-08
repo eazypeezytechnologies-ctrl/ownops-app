@@ -1,6 +1,6 @@
 # 🏗️ OwnOps – Operations Management System
 
-Streamline operations. Track workflows. Scale real-world businesses.
+"Streamline operations. Track workflows. Scale real-world businesses."
 
 ---
 
