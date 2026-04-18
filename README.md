@@ -60,8 +60,7 @@ helping users go from idea → execution → operation with clarity.
 
 We are actively testing with real users.
 
-If you'd like to test:
-👉 [INSERT YOUR APP LINK HERE]
+## !COMING SOON!
 
 ---
 
