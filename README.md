@@ -1,153 +1,103 @@
-# 🏗️ OwnOps – Operations Management System
+# 🏗️ OwnOps
 
-"Streamline operations. Track workflows. Scale real-world businesses."
+**A guided business-readiness and operations platform for moving from idea to execution with more clarity.**
 
----
+> **Public showcase repository**  
+> This repository documents OwnOps’ purpose, product progress, challenges, and lessons learned. The active application source remains private while the platform, data model, and integrations are being refined.
 
-## 📌 Overview
+## What OwnOps Is Built to Solve
 
-## 🚀 OwnOps — Business Operating System (In Progress)
+Starting, buying, improving, and operating a business are different journeys. Each path can involve licensing, funding, location, staffing, suppliers, compliance, workflows, and ongoing decisions.
 
-OwnOps is a guided business-building platform that helps users:
+OwnOps is being built as a guided system that helps users understand:
 
-- Start a business
-- Buy an existing business
-- Explore income opportunities
-- Generate step-by-step execution plans
+- What stage they are in
+- What information is still missing
+- Which requirements apply to their business type and location
+- What action should come next
+- Which opportunities or risks need verification
 
-## 🔥 Recent Updates (April 17)
+## Current Product Direction
 
-### ✅ UX Improvements
-- Improved onboarding clarity with guided flow
-- Added “System Guide” to explain generated plans
-- Improved navigation and mobile responsiveness
-- Added classification confirmation for business lookup
+OwnOps includes or is actively developing:
 
-### ✅ Business Lookup Enhancements
-- Confidence indicators (High / Medium / Low)
-- Manual override for incorrect classifications
-- “Why this classification” transparency
-- Initial permit/licensing breakdowns
+- A six-stage business framework
+- Guided onboarding and business-path selection
+- Business-model and industry classification
+- Confirmation, confidence, and manual-override controls
+- Requirement and jurisdiction mapping
+- “What Do I Need?” guidance
+- Opportunity discovery and filtering
+- Tasks, contacts, exports, and saved workflows
+- Administrative tools for jurisdictions and imported data
+- Funding, location, and industry-intelligence concepts
+- Next Best Action guidance
 
-### ✅ Opportunity System
-- Opportunity Directory with curated listings
-- “What Do I Need?” workflow integration
-- Trust scoring and structured opportunity display
+## Latest Progress — July 2026
 
-### ⚠️ Known Issues (Actively Being Fixed)
-- Some plans generate with 0 tasks (critical fix in progress)
-- Classification gaps (e.g., barbershop, vending, niche industries)
-- Limited real-time data (currently curated/mock data)
-- Guidance still improving across certain flows
+### Completed or improved
 
-### 🧠 In Progress (Next Phase)
-- Task generation engine improvements
-- Industry Intelligence expansion
-- Real data integrations (APIs for opportunities & locations)
-- Smarter business classification system
-- Location intelligence (best areas to operate)
+- Expanded the guided wizard across multiple business journeys
+- Added clearer business classification with confirmation and explanation
+- Added confidence indicators and manual overrides
+- Improved settings, task, contact, and persistence workflows
+- Added requirement mapping, filters, exports, and administrative jurisdiction tools
+- Strengthened opportunity and business-search flows
+- Added clearer guidance to reduce dead ends and user confusion
 
----
+### Current focus
 
-## 🎯 Vision
+- Stabilizing the Import Center
+- Replacing sample opportunities with real, source-backed opportunity data
+- Improving “buy an existing business” and other intent-specific paths
+- Expanding industry coverage without forcing every business through the same questions
+- Strengthening location and jurisdiction intelligence
+- Making recommendations easier to understand and verify
 
-OwnOps is being built to feel like a **guided system**, not just a tool —  
-helping users go from idea → execution → operation with clarity.
+## Product Challenges
 
----
+OwnOps became powerful faster than it became easy to use.
 
-## 🧪 Testing
+The hardest design questions include:
 
-We are actively testing with real users.
+- Separating starting, buying, operating, and improving a business
+- Supporting very different industries and regulatory requirements
+- Keeping jurisdiction-dependent information current
+- Distinguishing sourced facts from estimates or general guidance
+- Preventing scores and recommendations from appearing more certain than the underlying data
 
-## !LINK COMING SOON!
+## Product Principles
 
----
+- Guidance and sequencing matter as much as feature depth
+- Requirements should identify their jurisdiction and source
+- Users should be able to correct classifications
+- Recommendations should explain what is known, unknown, and still needs verification
+- Real opportunity data should replace placeholder examples before public reliance
 
-## ⚙️ Tech Stack
+## Technology
 
 - React / TypeScript
-- Supabase (Auth + DB)
-- Bolt.new (AI-assisted development)
+- Supabase
+- Node.js and data-import workflows
+- Administrative dashboards
+- AI-assisted prototyping and product development
 
----
+## Status
 
-## 🧑🏽‍💻 Built by
+**Functional prototype in active iteration.**
+
+The public repository is a product showcase and progress record. It is not the current production source repository, and OwnOps does not replace legal, financial, licensing, or regulatory advice.
+
+## Related Links
+
+- [Eazy Peezy Technologies Portfolio](https://github.com/eazypeezytechnologies-ctrl/Portfolio)
+- [Eazy Peezy Technologies](https://eazypeezytech.com)
+
+## Builder
 
 **Babatunde Jegede**  
-Founder — Eazy Peezy Technologies LLC  
+Founder, Eazy Peezy Technologies LLC
 
 ---
 
-## 🎯 Why I Built It
-
-Managing multiple business operations (logistics, deliveries, acquisitions) often leads to:
-
-- Scattered information
-- Missed opportunities
-- Poor workflow visibility
-
-OwnOps was built to centralize operations into a single structured system, improving clarity, execution, and scalability.
-
----
-
-## 🚀 Features
-
-- 📊 Opportunity & deal tracking
-- 🧩 Workflow and task management
-- 📍 Logistics coordination support
-- 🗂️ Centralized operations dashboard
-- ⚙️ Scalable system design for multiple business types
-
----
-
-## 🧠 Key Concept
-
-OwnOps is designed around operational clarity:
-
-- Every opportunity becomes a trackable workflow
-- Every workflow becomes measurable progress
-- Every system supports scaling without chaos
-
----
-
-## 📸 App Preview
-
-### 📊 Operations Dashboard
-<img src="./screenshots:/dashboard.jpg" width="250" />
-
-### 🧩 Workflow Management
-<img src="./screenshots:/workflow.jpg" width="250" />
-
-### 📍 Opportunity Tracking
-<img src="./screenshots:/opportunities.jpg" width="250" />
-
----
-
-## 🧰 Tech Stack
-
-- React Native (Expo)
-- TypeScript
-- Supabase (database + backend)
-- Node.js (API logic)
-
----
-
-## 📈 What I Learned
-
-- Designing systems for real-world operations
-- Structuring scalable workflows
-- Building tools for execution, not just tracking
-- Thinking in systems instead of isolated features
-
----
-
-## 🔄 Status
-
-In active development — expanding workflow automation, filtering, and real-time tracking features.
-
----
-
-## 👤 Author
-
-Babatunde Jegede
+**Last updated: July 8, 2026**
