@@ -1,5 +1,9 @@
 # 🏗️ OwnOps
 
+<p align="center">
+  <img src="assets/ownops-logo.svg" alt="OwnOps logo" width="420">
+</p>
+
 **A guided business-readiness and operations platform for moving from idea to execution with more clarity.**
 
 > **Public showcase repository**  
